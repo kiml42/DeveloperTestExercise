@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileData", "FileData\FileDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyTools", "ThirdPartyTools\ThirdPartyTools.csproj", "{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDataTests", "FileDataTests\FileDataTests.csproj", "{61330EB2-B454-4267-B980-1D16E09DA6F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDataTests", "FileDataTests\FileDataTests.csproj", "{C19C1887-9BBB-4F02-A0DE-0C77C9AAF992}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16ADD673-64B2-43C8-92D9-EA5F2CC6863F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{61330EB2-B454-4267-B980-1D16E09DA6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61330EB2-B454-4267-B980-1D16E09DA6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61330EB2-B454-4267-B980-1D16E09DA6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61330EB2-B454-4267-B980-1D16E09DA6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19C1887-9BBB-4F02-A0DE-0C77C9AAF992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19C1887-9BBB-4F02-A0DE-0C77C9AAF992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19C1887-9BBB-4F02-A0DE-0C77C9AAF992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19C1887-9BBB-4F02-A0DE-0C77C9AAF992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

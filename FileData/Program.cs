@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.Diagnostics;
 using ThirdPartyTools;
 
 namespace FileData
@@ -9,6 +8,9 @@ namespace FileData
     {
         public static void Main(string[] args)
         {
+            var detail = new FileDataReader(new FileDetails()).GetDetail(args);
+            Console.WriteLine(detail);
+            Debug.WriteLine(detail);
         }
     }
 }

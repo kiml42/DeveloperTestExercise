@@ -22,3 +22,4 @@
 *.CodeAnalysisLog.xml
 *.lastcodeanalysissucceeded
 .vs/
+packages/
